@@ -14,10 +14,12 @@ body {
     display: none;
 }
 
-/* Share This Cutoff Icon Fix */
-.stbutton {
-    display:block;
-    height:20px;
+.twitter {
+    padding: 30px;
+}
+
+.twitter a{
+    padding:10px;
 }
 
 body {
